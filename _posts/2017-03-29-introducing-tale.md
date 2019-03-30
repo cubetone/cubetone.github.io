@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "제주 여행"
-author: "Chester"
+author: "Sungwoo Lee"
 ---
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
