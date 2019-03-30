@@ -5,5 +5,5 @@ author: {{ "site.author.name" }}
 permalink: /about/
 ---
 ## {{ site.author.name }}
-#### ![avatar]({{ "/assets/avatar_icon.png" | absolute_url }})
+#### ![avatar]({{ "/assets/avatar-icon.png" | absolute_url }})
 #### web developer, father and bass player
