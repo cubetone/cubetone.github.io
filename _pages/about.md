@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "About"
-author: {{ "site.author.name" }}
+author: {{"site.url"}}
 permalink: /about/
 ---
 ![avatar]({{ "/assets/avatar-icon.png" | absolute_url }})
 # {{ site.author.name }}
-## web developer, father and bass player
+### web developer, dad and bass player
