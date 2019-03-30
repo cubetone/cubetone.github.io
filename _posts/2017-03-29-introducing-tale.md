@@ -2,6 +2,8 @@
 layout: post
 title:  "제주 여행"
 author: "Sungwoo Lee"
+date: 2019-03-29 23:07:02 +0900
+tags: [lifelog, family, jeju, jeju-island]
 ---
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
