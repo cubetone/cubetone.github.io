@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: {{ site.author.name }}
+author: "{{ site.author.name }}"
 permalink: /about/
 ---
 ## {{ site.author.name }}
