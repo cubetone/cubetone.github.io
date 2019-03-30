@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "제주 여행"
 author: "Chester"
 ---
 
